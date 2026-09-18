@@ -4,7 +4,6 @@ barang_3 = 10000
 barang_4 = 5500
 barang_5 = 5000
 barang_6 = 20000
-barang_7 = 12345
 usd = 17740
 ringgit = 4326
 
