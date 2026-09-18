@@ -4,6 +4,7 @@ barang_3 = 10000
 barang_4 = 5500
 barang_5 = 5000
 barang_6 = 20000
+nim = 11
 usd = 17740
 ringgit = 4326
 
@@ -22,10 +23,8 @@ print("Total bayar         :", total_bayar)
 rata_rata = total_bayar / len(barang)
 print("Rata-rata           :", rata_rata)
 
-nim = 11
-print("NIM                 :", nim)
-
 bolean = nim < rata_rata
+print("NIM                 :", nim)
 print("Bolean              :", bolean)
 
 total_bayar_usd = total_bayar / usd
